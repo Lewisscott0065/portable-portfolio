@@ -1,19 +1,18 @@
 ## Site Name
-- Portable Portfolio
+- Raven Huff
 
 ## Header
-- Hi, my name is Eldora. 
-- I'm a software engineer.
-- Short Description Here.
+- Hi, my name is Raven
+- I'm a full-stack software engineer.
+- Full Stack Developer / Software Engineer
 
 ## About
-Write your "About" section here.
+Full Stack Developer / Software Engineer with 15+ years of experience building scalable web and enterprise applications. Strong in React, Angular, Vue.js, Node.js, TypeScript, Python, and SQL, with hands-on experience in AWS and Azure. Proven ability to deliver end-to-end solutions, design and maintain APIs, manage databases, and improve CI/CD pipelines, with a focus on performance, reliability, and clean, maintainable code.
 
 ## Contact
-Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+- LinkedIn: https://linkedin.com/in/ravenhuff36529
+- GitHub: https://github.com/ravenhuff36529
+- Email: ravenhuff36529@gmail.com
 
 ## Logo
 - EB

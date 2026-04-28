@@ -1,26 +1,26 @@
-## Project A
-Description
-- ![600x200](https://via.placeholder.com/600x200)
+## Full-stack Employee Management System
+Streamline your workforce operations, track attendance, manage payroll, and empower your team securely.
+- ![600x200](../assets/ems.png)
 - Tags: Category 1
 - Badges:
   - Badge [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://ems-gs.vercel.app]
 
-## Project B
-Description
-- ![600x200](https://via.placeholder.com/600x200)
+## Full-stack AI Fitness Tracker App 
+Elevate your fitness journey with intelligent coaching, track workouts and nutrition, monitor progress in real time, and achieve your goals with personalized AI-driven insights.
+- ![600x200](../assets/fitness.png)
 - Tags: Category 2
 - Badges:
   - Badge [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://fitness-gs.vercel.app]
 
-## Project C
-Description
-- ![600x200](https://via.placeholder.com/600x200)
+## Full-stack Social Media App
+Connect with your community, share moments instantly, discover trending content, and build meaningful relationships through a secure and engaging social experience.
+- ![600x200](../assets/socialmedia.png)
 - Tags: Category 3
 - Badges:
   - Badge [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://pingup-gs.vercel.app]
